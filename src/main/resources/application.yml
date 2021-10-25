@@ -1,0 +1,9 @@
+logging:
+  level:
+    web: debug
+    org:
+      springframework:
+        r2dbc: DEBUG
+    com:
+      reactive:
+        person: debug
